@@ -1,0 +1,19 @@
+# Instrucciones:
+
+Se necesita crear un nuevo environment, ya que VSR y FOM utilizan diferentes versiones de algunas librerias.
+
+# conda create --name VSR-Quality python==3.7
+
+# conda activate VSR-Quality
+
+Se agrego el archivo requirements_quality.txt, abrirlo y copiar las lineas comentadas en la consola, luego ejecutar:
+
+# pip install -r requirements_quality.txt
+
+
+
+Finalmente, correr el servidor 
+
+# python web.py
+
+Se podra acceder desde el endpoint /quality

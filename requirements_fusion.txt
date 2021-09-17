@@ -1,0 +1,22 @@
+#conda install tensorflow-gpu==1.15.0
+#conda install pytorch
+#pip install -e ./VideoSuperResolution
+opencv-python
+torchvision
+moviepy
+requests
+Flask
+flask_uploads
+pytest-shutil
+Werkzeug==0.16.0
+flask_wtf
+GitPython
+scikit-image==0.18.1
+scikit-learn==0.19.2
+pandas==0.23.4
+python-dateutil==2.7.3
+pytz==2018.5
+scipy==1.1.0
+playsound==1.2.2
+#pip install -f https://download.pytorch.org/whl/torch_stable.html torch==1.4.0
+#pip install torchvision==0.2.1

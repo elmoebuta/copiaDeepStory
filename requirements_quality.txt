@@ -1,0 +1,12 @@
+#conda install tensorflow-gpu==1.15.0
+#conda install pytorch
+#pip install -e ./VideoSuperResolution
+opencv-python
+torchvision
+moviepy
+requests
+Flask
+flask_uploads
+Werkzeug==0.16.0
+flask_wtf
+GitPython
